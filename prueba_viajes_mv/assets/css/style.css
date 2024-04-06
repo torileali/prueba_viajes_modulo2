@@ -1,10 +1,10 @@
 body {
-background-color: black;
-font-family: "Raleway", "Open Sans";
-color: white;
-margin: 0;
-border: 0;
-padding: 0;
+    background-color: black;
+    font-family: "Raleway", "Open Sans";
+    color: white;
+    margin: 0;
+    border: 0;
+    padding: 0;
 }
 
 .navbar {
@@ -25,11 +25,11 @@ padding: 0;
 }
 
 /*Section Cards Destacados*/
-.cardbodySection  {
+.cardbodySection {
     background-color: #0DCAF0;
     text-align: justify;
     font-family: "Raleway";
-    
+
 }
 
 /*Footer*/
