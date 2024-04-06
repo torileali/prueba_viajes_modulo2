@@ -9,20 +9,30 @@ padding: 0;
 
 .navbar {
     background-color: transparent;
+    background: repeat;
     font-family: "Open Sans";
     color: white;
 }
 
+.navbarNav {
+    text-align: left;
+}
+
 .iconHeader {
     background-color: #0DCAF0;
-    margin: auto;
     text-align: center;
+    width: 20rem;
 }
 
+/*Section Cards Destacados*/
 .cardbodySection  {
     background-color: #0DCAF0;
+    text-align: justify;
+    font-family: "Raleway";
+    
 }
 
+/*Footer*/
 footer {
     background-color: #0DCAF0;
 }
